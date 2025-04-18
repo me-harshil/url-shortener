@@ -31,3 +31,10 @@ npm start
 ```
 
 The application will be available at `http://localhost:5000`
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is a exercise from roadmap.sh. You can check the project here:
+https://roadmap.sh/projects/url-shortening-service
